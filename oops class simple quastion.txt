@@ -1,0 +1,57 @@
+#include<iostream>
+using namespace std;
+ 
+ class collageinternship{
+    public:
+    string cic1;
+    string cic2;
+    string cic3;
+    string cic4;
+    string cic5;
+    string cic6;
+     string cic7;
+      string cic8;
+       string cic9;
+        string cic10;
+         string cic11;
+          string cic12;
+ };
+ int main()
+ {
+   cout<<" ________________ MAHARAJA SURJMAL INSTITUTE OF TECHNOLOGY_____________"<< endl;
+   cout<< ".......This time these children have been selected for internship....." << endl;
+    collageinternship msit;
+    msit.cic1 = "praveen kumar";
+    msit.cic2 = " (electronic & communication engineering)" ;
+    msit.cic3 = " sagar kumar";
+    msit.cic4 = " (comupter science engineering)";
+    msit.cic5 = " anjali khan";
+    msit.cic6 = " (information technology)";
+    msit.cic7 = " neha rana";
+    msit.cic8 = "(electronic & communication engineering)";
+    msit.cic9 = "ankit kumar";
+    msit.cic10 = " (computer science engineering)";
+    msit.cic11 = " tejas nehru";
+    msit.cic12 = " (information technology)";
+
+    cout<< " GOOGLE = "<< msit.cic1<< endl;
+    cout<< " branch = "<< msit.cic2<< endl;
+    cout<< " TCS = "<< msit.cic3<< endl;
+    cout<< " branch = "<< msit.cic4<< endl;
+    cout<< " NETFLIX = "<< msit.cic5<< endl;
+    cout<< " branch = "<< msit.cic6<< endl;
+    cout<< " FACEBOOK = "<< msit.cic7<< endl;
+    cout<< " branch = "<< msit.cic8<< endl;
+    cout<< " AMAZON = "<< msit.cic9<< endl;
+    cout<< " branch = "<< msit.cic10<< endl;
+    cout<< " META = "<< msit.cic11<< endl;
+    cout<< " branch = "<< msit.cic12<< endl;
+
+ }
+ 
+// oops class simple level question //
+//https://github.com/praveenkumar9767//
+    
+
+
+ 
